@@ -8,7 +8,7 @@ During the motion of the real boat, it is possible to follow the performance of 
 
 The system overview can be presented as follows
 
-![image](https://github.com/markusbuchholz/digital_twin_blueboat/assets/30973337/1afc9b57-9305-48bc-a8ae-bb69a9616cec)
+![image](https://github.com/markusbuchholz/digital_twin_blueboat/assets/30973337/46bc8e21-91fb-4a97-82ff-848698d98988)
 
 
 
